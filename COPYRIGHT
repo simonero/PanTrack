@@ -1,0 +1,23 @@
++--------------------------------------------------------------------------- - - - 
+
+COPYRIGHT
+
+
+PanTrack (c) 2015-2017 Simone Roberts, All Rights Reserved.
+
+PanTrack was developed exclusively for research purposes and is not intended
+for sale or private distribution at any point in time.  Distributing PanTrack
+for these purposes is not permitted.  Distribution of PanTrack or any portion
+of its original code (see documentation included in downloads for borrowed code)
+without permission from the developers is not permitted at this time, however
+it is likely that future versions of PanTrack will be subject to more liberal
+copyright terms.  The purpose of these restrictions is to give the developers
+control over the distribution of this software until a more stable build is
+ready for release. 
+
+Supporting software included in the PanTrack package is subject to additional
+copyright or licensure terms.  Please see README files or other documentation
+included with each release in the corresponding folders within the 
+supporting_software/ directory.
+
++--------------------------------------------------------------------------- - - - 
